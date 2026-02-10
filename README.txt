@@ -10,3 +10,11 @@ Notlar:
 - Hava durumu: OpenWeather API key gömülü (Bayrampaşa).
 - Döviz: TCMB today.xml (USD/EUR). Gram altın için TCMB XML içinde XAU varsa yaklaşık hesaplanır.
 - Haber: AA RSS (cat=0) üzerinden başlıklar.
+
+--- GitHub Actions Notu (Android Studio gerekmez) ---
+Bu projede Gradle Wrapper olmadan GitHub Actions ile APK derlenir.
+Repo içine .github/workflows/build-apk.yml dosyası eklenmiştir.
+
+Kullanım:
+- GitHub > Actions > "Build Dilworld TV APK (No Wrapper)" çalışır.
+- Bittiğinde Artifacts bölümünden DilworldTV-APK indir.
