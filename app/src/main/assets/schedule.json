@@ -1,0 +1,239 @@
+{
+  "timezone": "Europe/Istanbul",
+  "days": {
+    "FRI": [
+      {
+        "start": "16:10",
+        "end": "16:50",
+        "type": "DERS",
+        "label": "1. Ders (Akşam)"
+      },
+      {
+        "start": "16:50",
+        "end": "17:00",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "17:00",
+        "end": "17:40",
+        "type": "DERS",
+        "label": "2. Ders (Akşam)"
+      },
+      {
+        "start": "17:40",
+        "end": "17:50",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "17:50",
+        "end": "18:30",
+        "type": "DERS",
+        "label": "3. Ders (Akşam)"
+      },
+      {
+        "start": "18:30",
+        "end": "18:40",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "18:40",
+        "end": "19:20",
+        "type": "DERS",
+        "label": "4. Ders (Akşam)"
+      }
+    ],
+    "SAT": [
+      {
+        "start": "09:00",
+        "end": "09:40",
+        "type": "DERS",
+        "label": "1. Ders (Sabah)"
+      },
+      {
+        "start": "09:40",
+        "end": "09:50",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "09:50",
+        "end": "10:30",
+        "type": "DERS",
+        "label": "2. Ders (Sabah)"
+      },
+      {
+        "start": "10:30",
+        "end": "10:40",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "10:40",
+        "end": "11:20",
+        "type": "DERS",
+        "label": "3. Ders (Sabah)"
+      },
+      {
+        "start": "11:20",
+        "end": "11:30",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "11:30",
+        "end": "12:10",
+        "type": "DERS",
+        "label": "4. Ders (Sabah)"
+      },
+      {
+        "start": "12:10",
+        "end": "12:40",
+        "type": "OGLE",
+        "label": "Öğle Arası"
+      },
+      {
+        "start": "12:40",
+        "end": "13:20",
+        "type": "DERS",
+        "label": "1. Ders (Öğle)"
+      },
+      {
+        "start": "13:20",
+        "end": "13:30",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "13:30",
+        "end": "14:10",
+        "type": "DERS",
+        "label": "2. Ders (Öğle)"
+      },
+      {
+        "start": "14:10",
+        "end": "14:20",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "14:20",
+        "end": "15:00",
+        "type": "DERS",
+        "label": "3. Ders (Öğle)"
+      },
+      {
+        "start": "15:00",
+        "end": "15:10",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "15:10",
+        "end": "15:50",
+        "type": "DERS",
+        "label": "4. Ders (Öğle)"
+      },
+      {
+        "start": "15:50",
+        "end": "16:10",
+        "type": "ARA",
+        "label": "İkindi Arası"
+      },
+      {
+        "start": "16:10",
+        "end": "16:50",
+        "type": "DERS",
+        "label": "1. Ders (Akşam)"
+      },
+      {
+        "start": "16:50",
+        "end": "17:00",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "17:00",
+        "end": "17:40",
+        "type": "DERS",
+        "label": "2. Ders (Akşam)"
+      },
+      {
+        "start": "17:40",
+        "end": "17:50",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "17:50",
+        "end": "18:30",
+        "type": "DERS",
+        "label": "3. Ders (Akşam)"
+      },
+      {
+        "start": "18:30",
+        "end": "18:40",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "18:40",
+        "end": "19:20",
+        "type": "DERS",
+        "label": "4. Ders (Akşam)"
+      }
+    ],
+    "SUN": [
+      {
+        "start": "12:10",
+        "end": "12:40",
+        "type": "OGLE",
+        "label": "Öğle Arası"
+      },
+      {
+        "start": "12:40",
+        "end": "13:20",
+        "type": "DERS",
+        "label": "1. Ders"
+      },
+      {
+        "start": "13:20",
+        "end": "13:30",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "13:30",
+        "end": "14:10",
+        "type": "DERS",
+        "label": "2. Ders"
+      },
+      {
+        "start": "14:10",
+        "end": "14:20",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "14:20",
+        "end": "15:00",
+        "type": "DERS",
+        "label": "3. Ders"
+      },
+      {
+        "start": "15:00",
+        "end": "15:10",
+        "type": "TENEFUS",
+        "label": "Teneffüs"
+      },
+      {
+        "start": "15:10",
+        "end": "15:50",
+        "type": "DERS",
+        "label": "4. Ders"
+      }
+    ]
+  }
+}
